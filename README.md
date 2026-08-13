@@ -4,11 +4,11 @@
 #### Politeknik Negeri Padang
 
 ## What I've Done
-
+- penerapan carousel
 
 ## What I've *not* Done
 
 
 ## Links
-- Article Medium [Medium Task 1](https://medium.com/@hylmikhalil/3-shortcut-html-yang-lebih-berguna-daripada-sekadar-mengetik-a893ea05e8b5?sharedUserId=hylmikhalil).
+- Article Medium [Medium Task 1](https://medium.com/@hylmikhalil/bagaimana-caroussel-bisa-bekerja-dc47548f5bd5).
 - Video Demonstration with [Video Task 1](https://markdownlivepreview.com/). __(on going)__
