@@ -10,5 +10,5 @@
 
 
 ## Links
-- Article Medium [Medium Task 1](https://medium.com/@hylmikhalil/bagaimana-caroussel-bisa-bekerja-dc47548f5bd5).
+- Article Medium [Medium Task 2](https://medium.com/@hylmikhalil/bagaimana-caroussel-bisa-bekerja-dc47548f5bd5).
 - Video Demonstration with [Video Task 1](https://markdownlivepreview.com/). __(on going)__
